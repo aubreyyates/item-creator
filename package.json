@@ -1,0 +1,39 @@
+{
+  "_from": "item-creator@latest",
+  "_id": "item-creator@3.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-jKxfC/aC8JZvdexan8f6cL5F8RzqdVrSZGqAn7GQAQHHL5FsAjccZWAEvyeXq39Oqf634/waeRJ0cGLUy6P00Q==",
+  "_location": "/item-creator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "item-creator@latest",
+    "name": "item-creator",
+    "escapedName": "item-creator",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/item-creator/-/item-creator-3.0.2.tgz",
+  "_shasum": "ca9782b99690da7aeda3beed18a2a4e27e003bf6",
+  "_spec": "item-creator@latest",
+  "_where": "/Applications/MAMP/htdocs/Tabilization Table",
+  "author": {
+    "name": "Aubrey Yates"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A function that will create classes.",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "item-creator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.2"
+}
