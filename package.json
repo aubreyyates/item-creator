@@ -26,6 +26,10 @@
   "author": {
     "name": "Aubrey Yates"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aubreyyates/item-creator"
+  },
   "bundleDependencies": false,
   "deprecated": false,
   "description": "A function that will create classes.",
@@ -35,5 +39,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "3.0.2"
+  "version": "3.1.1"
 }
